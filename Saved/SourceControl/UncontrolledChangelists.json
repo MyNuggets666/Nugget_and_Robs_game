@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/lukef/Documents/Unreal Projects/My_Nuggets_Menus-Settings-master/My_Nuggets_Menus 5.1 - 2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/lukef/Documents/Unreal Projects/My_Nuggets_Menus-Settings-master/My_Nuggets_Menus 5.1 - 2/Content/Maps/MainMenuMap.umap",
+				"C:/Users/lukef/Documents/Unreal Projects/My_Nuggets_Menus-Settings-master/My_Nuggets_Menus 5.1 - 2/Content/UI/MainMenu/MainMenu.uasset",
+				"C:/Users/lukef/Documents/Unreal Projects/My_Nuggets_Menus-Settings-master/My_Nuggets_Menus 5.1 - 2/Content/Maps/MainMenuMap_BuiltData.uasset",
+				"C:/Users/lukef/Documents/Unreal Projects/My_Nuggets_Menus-Settings-master/My_Nuggets_Menus 5.1 - 2/Content/Blueprints/Character/Base_Character.uasset",
+				"C:/Users/lukef/Documents/Unreal Projects/My_Nuggets_Menus-Settings-master/My_Nuggets_Menus 5.1 - 2/Content/UI/MainMenu/OpitionsMenu.uasset",
+				"C:/Users/lukef/Documents/Unreal Projects/My_Nuggets_Menus-Settings-master/My_Nuggets_Menus 5.1 - 2/Content/Blueprints/Alllevels/SavedVideoOptions.uasset",
+				"C:/Users/lukef/Documents/Unreal Projects/My_Nuggets_Menus-Settings-master/My_Nuggets_Menus 5.1 - 2/Content/Maps/LobbyMap.umap",
+				"C:/Users/lukef/Documents/Unreal Projects/My_Nuggets_Menus-Settings-master/My_Nuggets_Menus 5.1 - 2/Content/Maps/LobbyMap_BuiltData.uasset",
+				"C:/Users/lukef/Documents/Unreal Projects/My_Nuggets_Menus-Settings-master/My_Nuggets_Menus 5.1 - 2/Content/Blueprints/Alllevels/MyGameInstance.uasset"
+			]
+		}
+	]
+}
