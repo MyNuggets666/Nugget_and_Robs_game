@@ -4,6 +4,7 @@ an Unreal engine project
 next updates: 
 #1 removing any old UE4 materials / items and replacing with UE5
 #2 updating menu and adding more indept settings
+#3 update textures in materials
 
 To install just download the project and unzip into C:\Users\******\Documents\Unreal Projects
 than you can open Nuggets_and_Robs_Game.uproject or open Unreal engine 5.1 and load the Nuggets_and_Robs_Game.uproject
